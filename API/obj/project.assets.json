@@ -4939,11 +4939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Downloads\\DatingApp\\api\\API.csproj",
+      "projectUniqueName": "D:\\backup\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\DELL\\Downloads\\DatingApp\\api\\API.csproj",
+      "projectPath": "D:\\backup\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Downloads\\DatingApp\\api\\obj\\",
+      "outputPath": "D:\\backup\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
